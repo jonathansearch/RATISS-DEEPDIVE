@@ -2,53 +2,53 @@
 
 # 📚 RATISS-DEEPDIVE
 
-**La série complète des deep dives des découvertes RATISS Labs — du 20 au 28 septembre 2026.**
+**The complete series of RATISS Labs discovery deep dives — from September 20 to 28, 2026.**
 
-14 documents PDF · 75 pages · tous les chiffres tirés des sources primaires des dépôts
+14 PDF documents · 75 pages · every number taken from the primary sources of the repositories
 
-*Par **RATISS Labs** — Jonathan Evina · Yaoundé, Cameroun · Licence MIT*
+*By **RATISS Labs** — Jonathan Evina · Yaoundé, Cameroon · MIT License*
 
 </div>
 
 ---
 
-Chaque PDF est un document source autonome : l'histoire en trois minutes, la carte d'identité du dépôt,
-le glossaire, les expériences chiffre par chiffre, **ce que le travail n'établit pas** (les frontières sont
-publiées avec les résultats), les citations exactes du labo, et une FAQ de deep dive prête pour l'audio.
+Each PDF is a self-contained source document: the story in three minutes, the repository's ID card,
+the glossary, the experiments number by number, **what the work does not establish** (the boundaries are
+published with the results), the lab's exact quotes, and a deep-dive FAQ ready for audio.
 
-**Règle de lecture RATISS Labs :** pour chaque résultat, le document dit où il a été mesuré —
-sur un vrai processeur quantique (étiquette **[QPU]**) ou dans un calcul (**[calcul]**). Jamais l'un pour l'autre.
+**RATISS Labs reading rule:** for every result, the document says where it was measured —
+on a real quantum processor (tag **[QPU]**) or in a computation (**[computation]**). Never one for the other.
 
-## 📖 Les 14 deep dives
+## 📖 The 14 deep dives
 
-| # | PDF | Dépôt couvert | Ce qu'il raconte |
+| # | PDF | Repository covered | What it tells |
 |---|---|---|---|
-| 01 | [`01-ratiss-focal-DEEPDIVE.pdf`](01-ratiss-focal-DEEPDIVE.pdf) | [ratiss-focal](https://github.com/jonathansearch/ratiss-focal) | La cohérence émerge-t-elle de l'information ? 94 tests, G/Q/U, 13 unifications, 7 ponts QPU |
-| 02 | [`02-ratiss-continuums-DEEPDIVE.pdf`](02-ratiss-continuums-DEEPDIVE.pdf) | [ratiss-continuums](https://github.com/jonathansearch/ratiss-continuums) | Le simulateur du tissu : Berry 2 qubits, loi √N, triangle GR×QM×Thermo factorisé |
-| 03 | [`03-synchrotron-24-DEEPDIVE.pdf`](03-synchrotron-24-DEEPDIVE.pdf) | [synchrotron-24](https://github.com/jonathansearch/synchrotron-24) | La cosmologie mesurée : 5 clés/5, H·t = 1.00, le fantôme qui pèse, 385 points IBM |
-| 04 | [`04-GCR-DEEPDIVE.pdf`](04-GCR-DEEPDIVE.pdf) | [GCR](https://github.com/jonathansearch/GCR) | Le Grand Collisionneur : les étincelles topologiques (b1 = 2–4), V1 invalidée, V3 0 clip |
-| 05 | [`05-ratiss-dose12-DEEPDIVE.pdf`](05-ratiss-dose12-DEEPDIVE.pdf) | [ratiss-dose12](https://github.com/jonathansearch/ratiss-dose12) | Les 12 chantiers testables à $0 : VQE 3/5 vs 0/5, registre de 12 prédictions falsifiables |
-| 06 | [`06-RATISS-QVM-DEEPDIVE.pdf`](06-RATISS-QVM-DEEPDIVE.pdf) | [RATISS-QVM](https://github.com/jonathansearch/RATISS-QVM) | L'ordinateur quantique virtuel : univers 300q, jumeaux IBM hors-échantillon, T1/T2 dérivés |
-| 07 | [`07-RATISS-NAVIER-DEEPDIVE.pdf`](07-RATISS-NAVIER-DEEPDIVE.pdf) | [RATISS-NAVIER](https://github.com/jonathansearch/RATISS-NAVIER) | La turbulence mesurée : SPH 3D, Ω = 72 122 (×1.44 l'objectif), 0 crash |
-| 08 | [`08-RATISS-FUSION-DEEPDIVE.pdf`](08-RATISS-FUSION-DEEPDIVE.pdf) | [RATISS-FUSION](https://github.com/jonathansearch/RATISS-FUSION) | L'ignition mesurée : R ×2.4, 428 fusions, Q pic 101, 5 bugs tués, Bosch-Hale réel |
-| 09 | [`09-RATISS-NUCLEAIRE-DEEPDIVE.pdf`](09-RATISS-NUCLEAIRE-DEEPDIVE.pdf) | [RATISS-NUCLEAIRE](https://github.com/jonathansearch/RATISS-NUCLEAIRE) | Du hot-spot à la supernova : flash 173 events, moteur unifié NAVIER↔FUSION |
-| 10 | [`10-RATISS-Omni-DEEPDIVE.pdf`](10-RATISS-Omni-DEEPDIVE.pdf) | [RATISS-Omni](https://github.com/jonathansearch/RATISS-Omni) | Le système nerveux : bus mmap, boucle fermée, dé-tarage ×8, red-team 47/47 |
-| 11 | [`11-RATISS-ARCHIVES-DEEPDIVE.pdf`](11-RATISS-ARCHIVES-DEEPDIVE.pdf) | [RATISS-ARCHIVES](https://github.com/jonathansearch/RATISS-ARCHIVES) | La mémoire : MANIFESTE SHA-256, 86 tâches IBM rapatriées, vérification quotidienne |
-| 12 | [`12-DISCORD-RATISS-DEEPDIVE.pdf`](12-DISCORD-RATISS-DEEPDIVE.pdf) | [DISCORD-RATISS](https://github.com/jonathansearch/DISCORD-RATISS) | L'héraldiste : 22 salons HTTP 204, secrets jamais exposés, mode purge |
-| 13 | [`13-RATISS-ETALONS-DEEPDIVE.pdf`](13-RATISS-ETALONS-DEEPDIVE.pdf) | [RATISS-ETALONS](https://github.com/jonathansearch/RATISS-ETALONS) | L'audit exécutable : 4 étalons, 14/16, 3 instruments faux au 1er essai, 7 corrections déclarées |
-| 14 | [`14-RATISS-PHOTON-DEEPDIVE.pdf`](14-RATISS-PHOTON-DEEPDIVE.pdf) | [RATISS-PHOTON](https://github.com/jonathansearch/RATISS-PHOTON) | Le photon multi-chemins : 8 396 800 chemins, fenêtre de Canton atteinte, le hasard qui émerge |
+| 01 | [`01-ratiss-focal-DEEPDIVE.pdf`](01-ratiss-focal-DEEPDIVE.pdf) | [ratiss-focal](https://github.com/jonathansearch/ratiss-focal) | Does coherence emerge from information? 94 tests, G/Q/U, 13 unifications, 7 QPU bridges |
+| 02 | [`02-ratiss-continuums-DEEPDIVE.pdf`](02-ratiss-continuums-DEEPDIVE.pdf) | [ratiss-continuums](https://github.com/jonathansearch/ratiss-continuums) | The tissue simulator: Berry 2 qubits, √N law, GR×QM×Thermo triangle factored |
+| 03 | [`03-synchrotron-24-DEEPDIVE.pdf`](03-synchrotron-24-DEEPDIVE.pdf) | [synchrotron-24](https://github.com/jonathansearch/synchrotron-24) | Measured cosmology: 5 keys/5, H·t = 1.00, the ghost that weighs, 385 IBM points |
+| 04 | [`04-GCR-DEEPDIVE.pdf`](04-GCR-DEEPDIVE.pdf) | [GCR](https://github.com/jonathansearch/GCR) | The Great Collider: topological sparks (b1 = 2–4), V1 invalidated, V3 0 clip |
+| 05 | [`05-ratiss-dose12-DEEPDIVE.pdf`](05-ratiss-dose12-DEEPDIVE.pdf) | [ratiss-dose12](https://github.com/jonathansearch/ratiss-dose12) | The 12 testable $0 projects: VQE 3/5 vs 0/5, registry of 12 falsifiable predictions |
+| 06 | [`06-RATISS-QVM-DEEPDIVE.pdf`](06-RATISS-QVM-DEEPDIVE.pdf) | [RATISS-QVM](https://github.com/jonathansearch/RATISS-QVM) | The virtual quantum computer: 300q universe, out-of-sample IBM twins, derived T1/T2 |
+| 07 | [`07-RATISS-NAVIER-DEEPDIVE.pdf`](07-RATISS-NAVIER-DEEPDIVE.pdf) | [RATISS-NAVIER](https://github.com/jonathansearch/RATISS-NAVIER) | Measured turbulence: 3D SPH, Ω = 72,122 (×1.44 the target), 0 crash |
+| 08 | [`08-RATISS-FUSION-DEEPDIVE.pdf`](08-RATISS-FUSION-DEEPDIVE.pdf) | [RATISS-FUSION](https://github.com/jonathansearch/RATISS-FUSION) | Measured ignition: R ×2.4, 428 fusions, peak Q 101, 5 bugs killed, real Bosch-Hale |
+| 09 | [`09-RATISS-NUCLEAIRE-DEEPDIVE.pdf`](09-RATISS-NUCLEAIRE-DEEPDIVE.pdf) | [RATISS-NUCLEAIRE](https://github.com/jonathansearch/RATISS-NUCLEAIRE) | From hot-spot to supernova: flash 173 events, unified NAVIER↔FUSION engine |
+| 10 | [`10-RATISS-Omni-DEEPDIVE.pdf`](10-RATISS-Omni-DEEPDIVE.pdf) | [RATISS-Omni](https://github.com/jonathansearch/RATISS-Omni) | The nervous system: mmap bus, closed loop, ×8 de-tariffing, red-team 47/47 |
+| 11 | [`11-RATISS-ARCHIVES-DEEPDIVE.pdf`](11-RATISS-ARCHIVES-DEEPDIVE.pdf) | [RATISS-ARCHIVES](https://github.com/jonathansearch/RATISS-ARCHIVES) | The memory: SHA-256 MANIFEST, 86 IBM tasks repatriated, daily verification |
+| 12 | [`12-DISCORD-RATISS-DEEPDIVE.pdf`](12-DISCORD-RATISS-DEEPDIVE.pdf) | [DISCORD-RATISS](https://github.com/jonathansearch/DISCORD-RATISS) | The herald: 22 channels HTTP 204, secrets never exposed, purge mode |
+| 13 | [`13-RATISS-ETALONS-DEEPDIVE.pdf`](13-RATISS-ETALONS-DEEPDIVE.pdf) | [RATISS-ETALONS](https://github.com/jonathansearch/RATISS-ETALONS) | The executable audit: 4 standards, 14/16, 3 instruments wrong on the first try, 7 declared corrections |
+| 14 | [`14-RATISS-PHOTON-DEEPDIVE.pdf`](14-RATISS-PHOTON-DEEPDIVE.pdf) | [RATISS-PHOTON](https://github.com/jonathansearch/RATISS-PHOTON) | The multi-path photon: 8,396,800 paths, Canton window reached, the randomness that emerges |
 
-## 🔬 La méthode de la série
+## 🔬 The series' method
 
-- Chaque document est rédigé **depuis les sources primaires** du dépôt couvert (README, RAPPORT, JOURNAL, PROTOCOLES, JSON scellés).
-- Chaque chiffre cité est un chiffre **publié** par le labo. Les échecs, réfutations et limites sont cités comme tels.
-- Les documents n'établissent **aucune** claim institutionnelle : RATISS Labs est un projet indépendant
-  mono-auteur (Jonathan Evina, Cameroun). Rien ici n'est peer-reviewé, et la série le dit.
+- Each document is written **from the primary sources** of the covered repository (README, RAPPORT, JOURNAL, PROTOCOLES, sealed JSONs).
+- Every quoted number is a number **published** by the lab. Failures, refutations and limits are quoted as such.
+- The documents establish **no** institutional claim: RATISS Labs is an independent single-author
+  project (Jonathan Evina, Cameroon). Nothing here is peer-reviewed, and the series says so.
 
-## 📜 Licence
+## 📜 License
 
-MIT — voir [LICENSE](LICENSE). Copyright (c) 2026 Jonathan Evina · RATISS Labs.
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Jonathan Evina · RATISS Labs.
 
 ---
 
-*RATISS Labs · Jonathan Evina · Yaoundé · Septembre 2026 — « On mesure, on nomme, on publie. »* 🔒
+*RATISS Labs · Jonathan Evina · Yaoundé · September 2026 — "We measure, we name, we publish."* 🔒
